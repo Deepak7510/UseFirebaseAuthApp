@@ -1,12 +1,22 @@
-# React + Vite
+# 🔐 Firebase Auth App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple authentication application built using **React and Firebase Authentication**. This app allows users to **sign up, sign in, and log in using Google authentication**.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- 🔑 **Sign Up** with Email & Password  
+- 🔓 **Sign In** with Email & Password  
+- 🟢 **Google Login** Integration  
+- 🔄 **Persistent User Authentication** (Session-based)  
+- 🔙 **Logout Functionality**  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+- **React.js** (Frontend UI)
+- **Firebase Authentication** (Auth Services)
+- **React Router** (Navigation)
+- **Tailwind CSS / Bootstrap** (Styling)
+- **Vite** (For faster development)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔧 Setup & Installation
+1. Clone the repository  
+   ```sh
+   git clone https://github.com/your-username/firebase-auth-app.git
