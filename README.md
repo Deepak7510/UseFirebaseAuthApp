@@ -19,4 +19,4 @@ A simple authentication application built using **React and Firebase Authenticat
 ## 🔧 Setup & Installation
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-username/firebase-auth-app.git
+   git clone https://github.com/Deepak7510/UseFirebaseAuthApp.git
